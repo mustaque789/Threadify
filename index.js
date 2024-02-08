@@ -3,6 +3,7 @@ const express = require("express");
 // calling express
 const app = express();
 
+// get api route 
 app.get("/", (req, resp) => {
   resp.send("Threadify app is working...");
 });
