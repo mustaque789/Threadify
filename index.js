@@ -1,6 +1,6 @@
 // get api route
 const express = require("express");
-// calling
+// calling express
 const app = express();
 
 app.get("/", (req, resp) => {
