@@ -11,7 +11,7 @@ root.render(
     <BrowserRouter>
     <App />
     </BrowserRouter>
-    // add browser
+    // add browser route
   </React.StrictMode>
 );
 
