@@ -9,7 +9,7 @@ import Cart from './customer/components/Cart/Cart';
 import Checkout from './customer/components/Checkout/Checkout';
 // component structure file
 function App() {
-// routed components
+// routed components file
   return (
     <div className="">
       <Navigation/>
